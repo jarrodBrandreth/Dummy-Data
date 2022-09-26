@@ -219,36 +219,6 @@
       "water_usage": 4,
       "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1643922170175-2501decce435?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 23,
-      "price": 260,
-      "name": "musa plant",
-      "category": [],
-      "maintenance_rating": 4,
-      "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1638824097313-8a42fef7c87c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 24,
-      "price": 230,
-      "name": "green sansevieria",
-      "category": [],
-      "maintenance_rating": 5,
-      "water_usage": 1,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1638824096986-5c5ed96d118a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 25,
-      "price": 100,
-      "name": "epiphyllum anguliger",
-      "category": [],
-      "maintenance_rating": 2,
-      "water_usage": 4,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1638435055217-5aef25d1982b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     }
   ]
 }
