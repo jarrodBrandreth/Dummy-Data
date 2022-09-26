@@ -7,7 +7,6 @@
       "category": [],
       "maintenance_rating": 5,
       "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum neque voluptates eius iure, ipsam velit magnam ab unde, tempore rerum nobis accusantium. Aspernatur animi tempore placeat iste doloremque quod omnis.",
       "image": "https://images.unsplash.com/photo-1662457476478-c92b302d6169?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -17,47 +16,42 @@
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 3,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus atque voluptatem eius nemo nam quo, excepturi molestiae voluptatum eveniet ut dolores provident in? Minima nulla perspiciatis eius, eos consequuntur non.",
       "image": "https://images.unsplash.com/photo-1661875874983-9f8c24c19bc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 3,
       "price": 190,
-      "name": "philodendron birkin white measure",
+      "name": "Philodendron Birkin White Measure",
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 4,
-      "care_instructions": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis eum veniam nisi omnis voluptatum veritatis labore rem ullam, dolor mollitia asperiores quisquam fugiat consequuntur reiciendis? Maxime quam nesciunt quibusdam modi.",
       "image": "https://images.unsplash.com/photo-1661875874991-128b40107d83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 4,
       "price": 150,
-      "name": "aglaonema zebra feathers",
+      "name": "Aglaonema zebra feathers",
       "category": [],
       "maintenance_rating": 2,
       "water_usage": 5,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum eius eveniet nisi recusandae cum enim, nihil magni ipsum, eaque voluptates nostrum. Culpa eos tempora similique, est quos et veritatis sapiente.",
       "image": "https://images.unsplash.com/photo-1661875874983-cfef6af3bdcc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 5,
       "price": 225,
-      "name": "bonsai fabian",
+      "name": "Bonsai Fabian",
       "category": [],
       "maintenance_rating": 5,
       "water_usage": 1,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam praesentium enim totam laboriosam. Perspiciatis ex vitae neque natus deleniti reiciendis? Veritatis quidem dignissimos iusto repudiandae architecto impedit temporibus molestiae nesciunt.",
       "image": "https://images.unsplash.com/photo-1659592986977-21bd641beb0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 6,
       "price": 245,
-      "name": "schefflera plant",
+      "name": "Schefflera plant",
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 4,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1659348447568-d0de3cb5a872?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -67,17 +61,15 @@
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1659100056532-67f490d1af1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 8,
       "price": 160,
-      "name": "aglaonema kiwi",
+      "name": "Aglaonema Kiwi",
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 1,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1659100056606-f745ce8cd83f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -87,27 +79,24 @@
       "category": [],
       "maintenance_rating": 1,
       "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1658309833590-11b5ba06fa3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 10,
       "price": 195,
-      "name": "philodendron prince of orange",
+      "name": "Philodendron Prince of Orange",
       "category": [],
       "maintenance_rating": 4,
       "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1658309833628-5181b14024e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 11,
       "price": 210,
-      "name": "aglaonema jungle red",
+      "name": "Aglaonema Jungle Red",
       "category": [],
       "maintenance_rating": 4,
       "water_usage": 4,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1658309833607-4de9956d0bbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -117,7 +106,6 @@
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 4,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1658309833602-854ab8e1d9f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -127,7 +115,6 @@
       "category": [],
       "maintenance_rating": 2,
       "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1655382355596-7bf7012a92f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -137,17 +124,15 @@
       "category": [],
       "maintenance_rating": 2,
       "water_usage": 3,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1654595531945-9e0e552cabc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
       "id": 15,
       "price": 140,
-      "name": "aglaonema orange star",
+      "name": "Aglaonema Orange Star",
       "category": [],
       "maintenance_rating": 4,
       "water_usage": 5,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1650522610607-225cecaff196?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -157,7 +142,6 @@
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 3,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1648650167853-d5154f20d6a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     },
     {
@@ -167,8 +151,79 @@
       "category": [],
       "maintenance_rating": 1,
       "water_usage": 1,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1648650178764-ee8b31b9cfb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 18,
+      "price": 170,
+      "name": "money tree",
+      "category": [],
+      "maintenance_rating": 2,
+      "water_usage": 2,
+      "image": "https://images.unsplash.com/photo-1648650203419-37baac21c8a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 19,
+      "price": 200,
+      "name": "hoya wayetii",
+      "category": [],
+      "maintenance_rating": 4,
+      "water_usage": 2,
+      "image": "https://images.unsplash.com/photo-1647631703152-9fdd4ad8d654?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 20,
+      "price": 140,
+      "name": "chlorophytum comosum",
+      "category": [],
+      "maintenance_rating": 5,
+      "water_usage": 1,
+      "image": "https://images.unsplash.com/photo-1647631703145-01e8bf7cd149?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
+    },
+    {
+      "id": 21,
+      "price": 100,
+      "name": "hoya heart",
+      "category": [],
+      "maintenance_rating": 2,
+      "water_usage": 2,
+      "image": "https://images.unsplash.com/photo-1647631703102-cb88f6dc39e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 22,
+      "price": 210,
+      "name": "Cordyline plant",
+      "category": [],
+      "maintenance_rating": 2,
+      "water_usage": 4,
+      "image": "https://images.unsplash.com/photo-1643922170175-2501decce435?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 23,
+      "price": 260,
+      "name": "musa plant",
+      "category": [],
+      "maintenance_rating": 4,
+      "water_usage": 2,
+      "image": "https://images.unsplash.com/photo-1638824097313-8a42fef7c87c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 24,
+      "price": 230,
+      "name": "green sansevieria",
+      "category": [],
+      "maintenance_rating": 5,
+      "water_usage": 1,
+      "image": "https://images.unsplash.com/photo-1638824096986-5c5ed96d118a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 25,
+      "price": 100,
+      "name": "Epiphyllum anguliger",
+      "category": [],
+      "maintenance_rating": 2,
+      "water_usage": 4,
+      "image": "https://images.unsplash.com/photo-1638435055217-5aef25d1982b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     }
   ]
 }
