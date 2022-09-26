@@ -169,36 +169,6 @@
       "water_usage": 1,
       "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1648650178764-ee8b31b9cfb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 18,
-      "price": 170,
-      "name": "money tree",
-      "category": [],
-      "maintenance_rating": 2,
-      "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1648650203419-37baac21c8a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 19,
-      "price": 200,
-      "name": "hoya wayetii",
-      "category": [],
-      "maintenance_rating": 4,
-      "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1647631703152-9fdd4ad8d654?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 20,
-      "price": 140,
-      "name": "chlorophytum comosum",
-      "category": [],
-      "maintenance_rating": 5,
-      "water_usage": 1,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1647631703145-01e8bf7cd149?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
     }
   ]
 }
