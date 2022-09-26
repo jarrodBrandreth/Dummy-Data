@@ -199,26 +199,6 @@
       "water_usage": 1,
       "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
       "image": "https://images.unsplash.com/photo-1647631703145-01e8bf7cd149?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
-    },
-    {
-      "id": 21,
-      "price": 100,
-      "name": "hoya heart",
-      "category": [],
-      "maintenance_rating": 2,
-      "water_usage": 2,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1647631703102-cb88f6dc39e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-    },
-    {
-      "id": 22,
-      "price": 210,
-      "name": "Cordyline plant",
-      "category": [],
-      "maintenance_rating": 2,
-      "water_usage": 4,
-      "care_instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque eveniet, et, quos minus, fugit consequuntur quidem adipisci ipsam placeat quasi non esse. Architecto eos aliquid porro alias nulla, quis quibusdam.",
-      "image": "https://images.unsplash.com/photo-1643922170175-2501decce435?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
     }
   ]
 }
