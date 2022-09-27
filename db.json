@@ -23,7 +23,7 @@
     {
       "id": 3,
       "price": 190,
-      "name": "Philodendron Birkin White Measure",
+      "name": "philodendron birkin white measure",
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 4,
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "price": 150,
-      "name": "Aglaonema zebra feathers",
+      "name": "aglaonema zebra feathers",
       "category": [],
       "maintenance_rating": 2,
       "water_usage": 5,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "price": 225,
-      "name": "Bonsai Fabian",
+      "name": "bonsai fabian",
       "category": [],
       "maintenance_rating": 5,
       "water_usage": 1,
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "price": 245,
-      "name": "Schefflera plant",
+      "name": "schefflera plant",
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 4,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "price": 160,
-      "name": "Aglaonema Kiwi",
+      "name": "aglaonema kiwi",
       "category": [],
       "maintenance_rating": 3,
       "water_usage": 1,
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "price": 195,
-      "name": "Philodendron Prince of Orange",
+      "name": "philodendron prince of orange",
       "category": [],
       "maintenance_rating": 4,
       "water_usage": 2,
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "price": 210,
-      "name": "Aglaonema Jungle Red",
+      "name": "aglaonema jungle red",
       "category": [],
       "maintenance_rating": 4,
       "water_usage": 4,
@@ -143,7 +143,7 @@
     {
       "id": 15,
       "price": 140,
-      "name": "Aglaonema Orange Star",
+      "name": "aglaonema orange star",
       "category": [],
       "maintenance_rating": 4,
       "water_usage": 5,
@@ -213,7 +213,7 @@
     {
       "id": 22,
       "price": 210,
-      "name": "Cordyline plant",
+      "name": "cordyline plant",
       "category": [],
       "maintenance_rating": 2,
       "water_usage": 4,
@@ -243,7 +243,7 @@
     {
       "id": 25,
       "price": 100,
-      "name": "Epiphyllum anguliger",
+      "name": "epiphyllum anguliger",
       "category": [],
       "maintenance_rating": 2,
       "water_usage": 4,
